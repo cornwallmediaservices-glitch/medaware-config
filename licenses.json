@@ -2,18 +2,10 @@
     "licenses": [
         {
             "payload": {
-                "id": "2e6a9ac0-7eac-438a-9d93-71e168b5ab19",
-                "deviceId": "c0f2fd66-6c98-48bd-8089-0c4e5b023177",
-                "expires": 310,
-                "features": [
-                    "history",
-                    "scanner",
-                    "interaction_engine",
-                    "sound_therapy",
-                    "profile_switching"
-                ]
+                "id": "e256f23a-c5e5-4ff7-84ce-c92847e65a3d",
+                "deviceId": "5d2fd003c6b20f27b25c1ae0fc1d1b39f0b1196b9d5b22f194f542e0650701e1"
             },
-            "signature": "ClUXoy2BexOuPAZRouF1U0YWWHb78gko+hYx0qo/B0qrkeZBqRUB5FNaAiMVHUn0mMBJB3u1sAfUaT0YyMlDA3afi2MEwRrnyVJ0fdsmoKHjJc3yk/jaj61i4RvATBmt8I6f9qfHSwRaHHA8VGmOg51ELhNDRD3sWWVPpcPokAzT8GMHUceEY3V5IkiDQaRbVQmB4yfcrmN8R2/ku6VIXxIkEEP7X9BEC6ege/R5GzHoyVac8zAWudFX/YgMUBY/Ir3KwJrIlUvLCssTUZUGNOj6q91r3B+Us4BtUdiLchwksNndvFhBrS0CkP8ZwQN4FmLSo4s4QyLHfOOGRzlFbw=="
+            "signature": "rev7MbPkVlKkpYtRAZUDf+PJMznlH4GrfM4S3+cw6cCWko/I4FRoZqlVAJBD/x7dZ9leBP4PwM8Xh+ixUo62wqP5GoNnnnLx7qIbkQi+6nX2uPXOlFjY6dd26j6/rhMwZGoLTIg2/eMd1LzdIoiaO2va91Qjgv6SfR8jcoer2XggTwh3zB4otKm2BJnYIZbde6uHiRzEOrXDAFCQp6b0Fau9V8dhCTAQybxQUoyAt+REeTqzaWNqjxHkiSi51MWOzhUa4PYNrOFDUIrP49l7IRTeBM87mv6bVf+6icEoC+rE5STBP3k5k3GmUhxgsnW3od8F2CTH2264ndvZxJhaYQ=="
         }
     ]
 }

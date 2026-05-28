@@ -1,11 +1,1 @@
-{
-    "licenses": [
-        {
-            "payload": {
-                "id": "e256f23a-c5e5-4ff7-84ce-c92847e65a3d",
-                "deviceId": "5d2fd003c6b20f27b25c1ae0fc1d1b39f0b1196b9d5b22f194f542e0650701e1"
-            },
-            "signature": "rev7MbPkVlKkpYtRAZUDf+PJMznlH4GrfM4S3+cw6cCWko/I4FRoZqlVAJBD/x7dZ9leBP4PwM8Xh+ixUo62wqP5GoNnnnLx7qIbkQi+6nX2uPXOlFjY6dd26j6/rhMwZGoLTIg2/eMd1LzdIoiaO2va91Qjgv6SfR8jcoer2XggTwh3zB4otKm2BJnYIZbde6uHiRzEOrXDAFCQp6b0Fau9V8dhCTAQybxQUoyAt+REeTqzaWNqjxHkiSi51MWOzhUa4PYNrOFDUIrP49l7IRTeBM87mv6bVf+6icEoC+rE5STBP3k5k3GmUhxgsnW3od8F2CTH2264ndvZxJhaYQ=="
-        }
-    ]
-}
+{"licenses":[{"payload":{"deviceId":"","tier":"vip","expiresAt":3650,"features":["scanner","history","interaction_engine","sound_therapy","profile_switching","product_database_viewer"]},"signature":"LXNZ+rStUgxyEMT4m/SQNsvVxsOkOIzBytpBZ9rBc2JjWNquyzFtRlsowXwYo1Dk4SL898MsmEeOD2hRc2GrYQ2HiZlKcBO25hjINY+1M6aymsIWHW1IwPCkxIThPOCo1b4gHxuxrKnHn52+uaFTS5/zptjTtu6jBy6sHYgFIbdZarCi8vY+8Am6SqHKs8NKn8YfpjrnYuasMR+dPdfO1yJ0nNz0x3w3RozUEgyD71uukTu1U3aguTycPbyeogb2OptTb04qNAx8Os5noCx5jCgK++joPHC9dnAZ5yhQgvc/nENbNIMsmHWRBOuaWk2ybB9CaL+c8wQPsOZaCkjROg=="}]}

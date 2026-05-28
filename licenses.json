@@ -2,22 +2,6 @@
     "licenses": [
         {
             "payload": {
-                "id": "cbf2e25f-568d-43bc-97a4-2ede0015b216",
-                "deviceId": "5367844",
-                "expires": 900,
-                "features": [
-                    "history",
-                    "scanner",
-                    "interaction_engine",
-                    "sound_therapy",
-                    "profile_switching",
-                    "product_database_viewer"
-                ]
-            },
-            "signature": "ysk2GpyrcIqiiem5hJYdVssUPvB83KAKFaKS5Z9lsmqmO3P6hmZoQthIHVdlJ24CKSkmnR+Xy1rHIe9BbZaf7MQJpKaDrIw0nd2nxPwlBiyb6fZCf8mgVAeQUaiMHdjpb84gERp3l1Ws9nZcPEMHBOhtD5DlZNkPBUxITWWjOa+qzI9jM5rZC5MCHOQcfX9vUPGK7Gu9zqTCW9YVJJxSRmy9kvQOaApeh/GzRwzR1OCfgnwozc1Zl1bL4CbQ+3M/1CM60wbXyRv0F9+m2j/L77f04cVZ2AQfPC8M2RFIz4cm4R11dqDSZ18Ph92NwTlvHt10KHBtYxgmCk5SWzLXoQ=="
-        },
-        {
-            "payload": {
                 "id": "2e6a9ac0-7eac-438a-9d93-71e168b5ab19",
                 "deviceId": "c0f2fd66-6c98-48bd-8089-0c4e5b023177",
                 "expires": 310,
